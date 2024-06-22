@@ -2,3 +2,5 @@
 
 # NerdyNexus
 Task Manager and killer.
+
+To download, turn off your antivirus and add the file to the exceptions (After that you can turn it on again).
